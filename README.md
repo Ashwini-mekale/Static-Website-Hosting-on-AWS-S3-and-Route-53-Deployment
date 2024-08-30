@@ -1,5 +1,8 @@
 # Static-Website-Hosting-on-AWS-S3-and-Route-53-Deployment<br><br>
 
+![Screenshot 2024-08-20 164659](https://github.com/user-attachments/assets/e7b1e6bb-9d4a-4f17-9b43-8c587bbcdbcb)<br><br>
+
+
 # Introduction to AWS Hosting
 ## Overview of AWS:
 Amazon Web Services (AWS) is a comprehensive and widely adopted cloud platform that offers over 200 fully-featured services from data centers globally. These services include computing power, storage options, networking, databases, machine learning, and more. AWS enables businesses of all sizes to scale their operations, innovate rapidly, and reduceIT costs. Whether you’re a startup building your first web app or an enterprise running mission-critical workloads, AWS provides the tools and infrastructure needed to succeed in the cloud.
